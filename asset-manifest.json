@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ITOP1000/static/css/main.5e812a1f.chunk.css",
+    "main.css": "/ITOP1000/static/css/main.b5e5154f.chunk.css",
     "main.js": "/ITOP1000/static/js/main.75cced50.chunk.js",
     "main.js.map": "/ITOP1000/static/js/main.75cced50.chunk.js.map",
     "runtime-main.js": "/ITOP1000/static/js/runtime-main.67af30cc.js",
@@ -8,13 +8,13 @@
     "static/js/2.eeb95c46.chunk.js": "/ITOP1000/static/js/2.eeb95c46.chunk.js",
     "static/js/2.eeb95c46.chunk.js.map": "/ITOP1000/static/js/2.eeb95c46.chunk.js.map",
     "index.html": "/ITOP1000/index.html",
-    "static/css/main.5e812a1f.chunk.css.map": "/ITOP1000/static/css/main.5e812a1f.chunk.css.map",
+    "static/css/main.b5e5154f.chunk.css.map": "/ITOP1000/static/css/main.b5e5154f.chunk.css.map",
     "static/js/2.eeb95c46.chunk.js.LICENSE.txt": "/ITOP1000/static/js/2.eeb95c46.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.67af30cc.js",
     "static/js/2.eeb95c46.chunk.js",
-    "static/css/main.5e812a1f.chunk.css",
+    "static/css/main.b5e5154f.chunk.css",
     "static/js/main.75cced50.chunk.js"
   ]
 }
