@@ -1,5 +1,6 @@
 {
   "name": "itop",
+  "homepage": "http://osmolenko.github.io/ITOP1000",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +11,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -30,6 +33,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "prettier": "^2.4.1"
   }
 }
