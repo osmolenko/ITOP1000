@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/osmolenko.github.io/ITOP1000/static/css/main.5e812a1f.chunk.css",
-    "main.js": "/osmolenko.github.io/ITOP1000/static/js/main.75cced50.chunk.js",
-    "main.js.map": "/osmolenko.github.io/ITOP1000/static/js/main.75cced50.chunk.js.map",
-    "runtime-main.js": "/osmolenko.github.io/ITOP1000/static/js/runtime-main.67a721b8.js",
-    "runtime-main.js.map": "/osmolenko.github.io/ITOP1000/static/js/runtime-main.67a721b8.js.map",
-    "static/js/2.eeb95c46.chunk.js": "/osmolenko.github.io/ITOP1000/static/js/2.eeb95c46.chunk.js",
-    "static/js/2.eeb95c46.chunk.js.map": "/osmolenko.github.io/ITOP1000/static/js/2.eeb95c46.chunk.js.map",
-    "index.html": "/osmolenko.github.io/ITOP1000/index.html",
-    "static/css/main.5e812a1f.chunk.css.map": "/osmolenko.github.io/ITOP1000/static/css/main.5e812a1f.chunk.css.map",
-    "static/js/2.eeb95c46.chunk.js.LICENSE.txt": "/osmolenko.github.io/ITOP1000/static/js/2.eeb95c46.chunk.js.LICENSE.txt"
+    "main.css": "/ITOP1000/static/css/main.5e812a1f.chunk.css",
+    "main.js": "/ITOP1000/static/js/main.75cced50.chunk.js",
+    "main.js.map": "/ITOP1000/static/js/main.75cced50.chunk.js.map",
+    "runtime-main.js": "/ITOP1000/static/js/runtime-main.67af30cc.js",
+    "runtime-main.js.map": "/ITOP1000/static/js/runtime-main.67af30cc.js.map",
+    "static/js/2.eeb95c46.chunk.js": "/ITOP1000/static/js/2.eeb95c46.chunk.js",
+    "static/js/2.eeb95c46.chunk.js.map": "/ITOP1000/static/js/2.eeb95c46.chunk.js.map",
+    "index.html": "/ITOP1000/index.html",
+    "static/css/main.5e812a1f.chunk.css.map": "/ITOP1000/static/css/main.5e812a1f.chunk.css.map",
+    "static/js/2.eeb95c46.chunk.js.LICENSE.txt": "/ITOP1000/static/js/2.eeb95c46.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.67a721b8.js",
+    "static/js/runtime-main.67af30cc.js",
     "static/js/2.eeb95c46.chunk.js",
     "static/css/main.5e812a1f.chunk.css",
     "static/js/main.75cced50.chunk.js"
